@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.page {
+  @apply h-screen flex items-center justify-center;
+}
+.inner {
+  @apply flex flex-col gap-2 items-center;
+}

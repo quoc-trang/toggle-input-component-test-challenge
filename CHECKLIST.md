@@ -1,0 +1,1 @@
+- You've tested that the ToggleInput component toggles the v-model value between true and false when clicked
